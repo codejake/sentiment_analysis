@@ -1,7 +1,8 @@
 # sentiment_analysis
 
 A largely vibe coded lunchtime project of little value, for Brxndon. It uses 
-word lists and basic transformers.
+word lists and basic transformers. It's pretty slow because it's running off CPU 
+and not GPU right now. It could be sped up considerably.
 
 ## Prerequisites
 
