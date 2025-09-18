@@ -6,6 +6,7 @@ A largely vibe coded lunchtime project of little value, for Brxndon.
 
 - Have Python 3.14 installed.
 - Have `uv` installed.
+- **Recommended:** Have Git installed.
 
 ## Install
 
