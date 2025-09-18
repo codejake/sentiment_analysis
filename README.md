@@ -1,6 +1,7 @@
 # sentiment_analysis
 
-A largely vibe coded lunchtime project of little value, for Brxndon.
+A largely vibe coded lunchtime project of little value, for Brxndon. It uses 
+word lists and basic transformers.
 
 ## Prerequisites
 
