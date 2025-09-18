@@ -140,6 +140,17 @@ def main():
     result = analyze_sentiment(example_headline)
     rprint(f"[bold green]Analyzing: [yellow]{example_headline}")
     rprint(f"[bold white]{result}")
+    print("")
+
+    with open("headlines.txt", "r") as f:
+        headlines = f.readlines()
+    for headline in headlines:
+        headline = headline.strip()
+        if headline:
+            result = analyze_sentiment(headline)
+            rprint(f"[bold green]Analyzing: [yellow]{headline}")
+            rprint(f"[bold white]{result}")
+            print("")
 
 
 if __name__ == "__main__":
