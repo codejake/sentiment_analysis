@@ -17,7 +17,8 @@ A largely vibe coded lunchtime project of little value, for Brxndon.
 
 ## Bugs
 
-- There are a couple immediate bugs I need to fix in some future lunch session.
+- There are a couple immediate bugs I need to fix in some future lunch session, 
+  but it's good enough for a basic PoC.
 - Fix the emotion categories. They suck and some are essentially duplicates.
 
 Hit me up with questions.
